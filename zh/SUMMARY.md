@@ -5,7 +5,7 @@
 * [Login](Login_zh.md)
 * [How to play Lucky Slot](How to play Lucky Slot_zh.md)
 * [How to play Lucky Dice](How to play Lucky Dice_zh.md)
-* [What's GO](What's GO_zh.md)
+* [What's GO](WhatisGO_zh.md)
 * [Usage of GO](Usage of GO_zh.md)
 * [How to get GO](How to get GO_zh.md)
 * [Dividend](Dividend_zh.md)
